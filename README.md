@@ -12,6 +12,11 @@ For my school projects, I've mainly used Java, JavaScript, NodeJs, ExpressJs, an
 Some projects include: [Basic Timer/Notes App](https://github.com/Dhakal-Kushal/Team15LargeProject) and [Gundan TypeRacer](https://github.com/agus-marmor/knights-cracked-VIII) 
 
 If you're interested, reach me at my [LinkedIn](https://www.linkedin.com/in/attila-nagy3/)
+
+## Fun Facts
+- I own a cat
+- I enjoy drinking coffee
+- Hobbies: Anime, video games, working out
 <!--
 **NutellaLife/NutellaLife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
