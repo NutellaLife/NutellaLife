@@ -13,7 +13,7 @@ Some projects include: [Basic Timer/Notes App](https://github.com/Dhakal-Kushal/
 
 If you're interested, reach me at my [LinkedIn](https://www.linkedin.com/in/attila-nagy3/)
 
-**Fun Facts**
+**Fun Facts:**
 - I own a cat
 - I enjoy drinking coffee
 - Hobbies: Anime, video games, working out
