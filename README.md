@@ -1,5 +1,17 @@
 ## Hi there 👋
+I'm Attila, a Computer Science student at UCF.
 
+I enjoy being given problems and solving them
+
+Rather than doing personal projects, I'd rather be given projects to complete as long as they're interesting
+
+I am currently seeking any internship related to computer science to expand my career
+
+For my school projects, I've mainly used Java, JavaScript, NodeJs, ExpressJs, and TypeScript for frontend and backend
+
+Here are some of my projects: [Basic Timer/Notes App](https://github.com/Dhakal-Kushal/Team15LargeProject) and [Gundan TypeRacer](https://github.com/agus-marmor/knights-cracked-VIII) 
+
+If you're interested, reach me at my [LinkedIn](https://www.linkedin.com/in/attila-nagy3/)
 <!--
 **NutellaLife/NutellaLife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
