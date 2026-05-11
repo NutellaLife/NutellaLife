@@ -9,7 +9,7 @@ I am currently seeking any internship related to computer science to expand my c
 
 For my school projects, I've mainly used Java, JavaScript, NodeJs, ExpressJs, and TypeScript for frontend and backend
 
-Some projects include: [Basic Timer/Notes App](https://github.com/Dhakal-Kushal/Team15LargeProject) and [Gundan TypeRacer](https://github.com/agus-marmor/knights-cracked-VIII) 
+Some projects include: [Basic Timer/Notes App](https://github.com/Dhakal-Kushal/Team15LargeProject) and [Gundan TypeRacer](https://github.com/agus-marmor/knights-cracked-VIII) [(Credentials)](https://devpost.com/software/gundam-typeracer)
 
 If you're interested, reach me at my [LinkedIn](https://www.linkedin.com/in/attila-nagy3/)
 
